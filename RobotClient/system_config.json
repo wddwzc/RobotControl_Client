@@ -1,0 +1,12 @@
+{
+    "ip": "192.168.1.77",
+    "isPointSaveClient": true,
+    "isPointSaveServer": true,
+    "isPointTransBack": true,
+    "isPointTransSparse": false,
+    "isPoseSaveClient": true,
+    "isPoseSaveServer": true,
+    "isPoseTransBack": true,
+    "isSaveNavMap": true,
+    "port": 2000
+}
