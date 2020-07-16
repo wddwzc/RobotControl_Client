@@ -35,3 +35,5 @@
 ## 其他
 
 **静态编译发行版**RobotClient.exe，可在任意windows环境运行
+
+如有兴趣，可以下载[离线编辑测试数据包](https://pan.baidu.com/s/1idd_d2_Als2fbr0_jl23iw)（提取码sbmt）
